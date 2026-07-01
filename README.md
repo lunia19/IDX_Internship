@@ -40,7 +40,6 @@ The project follows a structured multi-week analytics pipeline similar to a real
 ### Development Environment
 
 - Visual Studio Code
-- Git
 - GitHub
 
 ---
@@ -214,14 +213,6 @@ This repository will be updated with:
 - Project reports
 - Documentation
 - Python notebooks (where applicable)
-
----
-
-# Disclaimer
-
-This repository is intended for educational and portfolio purposes only.
-
-All proprietary datasets, confidential information, and sensitive business data have been excluded. Only the project workflow, scripts, and documentation are shared.
 
 ---
 
