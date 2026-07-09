@@ -91,8 +91,8 @@ IDX_Internship/
 
 ## Weeks 2–3 – Exploratory Data Analysis
 
-- Dataset structure inspection
-- Missing value analysis
+✔ Dataset structure inspection
+✔ Missing value analysis
 - Summary statistics
 - Distribution analysis
 - Data quality assessment
