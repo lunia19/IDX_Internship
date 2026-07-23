@@ -166,8 +166,8 @@ The original dataset consists of monthly residential real estate records includi
 | Week | Status |
 |-------|--------|
 | Week 1 | ✅ Complete |
-| Week 2 | ⏳ In Progress |
-| Week 3 | ⏳ Planned |
+| Week 2 | ✅ Complete |
+| Week 3 | ✅ Complete |
 | Week 4 | ⏳ Planned |
 | Week 5 | ⏳ Planned |
 | Week 6 | ⏳ Planned |
