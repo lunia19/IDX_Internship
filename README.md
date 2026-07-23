@@ -44,35 +44,6 @@ The project follows a structured multi-week analytics pipeline similar to a real
 
 ---
 
-# Project Structure
-
-```text
-IDX_Internship/
-│
-├── raw_csv/
-│   ├── CRMLSListing/
-│   └── CRMLSSold/
-│
-├── scripts/
-│   ├── week1_aggregation_residential.py
-│   ├── week2_eda.py
-│   ├── week4_cleaning.py
-│   ├── week6_feature_engineering.py
-│   ├── week7_outlier_detection.py
-│   └── ...
-│
-├── outputs/
-│
-├── reports/
-│
-├── tableau/
-│
-├── README.md
-└── .gitignore
-```
-
----
-
 # 🚀 Workflow
 
 ## Week 1 – Dataset Aggregation
@@ -95,10 +66,13 @@ IDX_Internship/
 
 ✔ Missing value analysis
 
-- Summary statistics
-- Distribution analysis
-- Data quality assessment
-- Mortgage rate integration
+✔ Summary statistics
+
+✔ Distribution analysis
+
+✔ Data quality assessment
+
+✔ Mortgage rate integration
 
 ---
 
