@@ -173,8 +173,8 @@ The original dataset consists of monthly residential real estate records includi
 | Week 1 | ✅ Complete |
 | Week 2 | ✅ Complete |
 | Week 3 | ✅ Complete |
-| Week 4 | ⏳ Planned |
-| Week 5 | ⏳ Planned |
+| Week 4 | ✅ Complete |
+| Week 5 | ✅ Complete |
 | Week 6 | ⏳ Planned |
 | Week 7 | ⏳ Planned |
 | Week 8 | ⏳ Planned |
