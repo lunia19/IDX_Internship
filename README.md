@@ -78,11 +78,16 @@ The project follows a structured multi-week analytics pipeline similar to a real
 
 ## Weeks 4–5 – Data Cleaning
 
-- Data type correction
-- Date validation
-- Coordinate validation
-- Missing value handling
-- Invalid record flagging
+✔ Data type correction
+
+✔ Date validation
+
+✔ Coordinate validation
+
+✔ Missing value handling
+
+✔ Invalid record flagging
+
 
 ---
 
